@@ -11,7 +11,7 @@ public class Tester {
 	public static void main(String[] args) {
 		
 		// Generate Initial Population
-		dna pop = new dna(.05);	
+		OldDna pop = new OldDna(.05);	
 
 		
 		JFrame frame = new JFrame();		
